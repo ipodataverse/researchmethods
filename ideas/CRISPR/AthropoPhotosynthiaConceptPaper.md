@@ -123,5 +123,7 @@ If partial success were achieved, the project could:
 Transforming melanocytes into chloroplast-like cells is beyond current experimental capabilities but serves as an idealized **frontier for synthetic biology design thinking**. Through CRISPR-based gene integration, metabolic modeling, and organelle engineering, this concept explores the theoretical boundaries of cross-domain functional biology. Even partial realization—such as light-dependent ATP generation—would mark a profound advancement in the understanding of cellular energy systems and the potential for synthetic photobiology.
 
 ---
+## **References**
+* Towards a synthetic chloroplast: results show that it is possible to engineer photosynthetic bacteria to invade the cytoplasm of mammalian cells for further engineering and applications in synthetic biology. Engineered invasive but non-pathogenic or immunogenic photosynthetic bacteria have great potential as synthetic biological devices. (https://pubmed.ncbi.nlm.nih.gov/21533097/)
 
 
