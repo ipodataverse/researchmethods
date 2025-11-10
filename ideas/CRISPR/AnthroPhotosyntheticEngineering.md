@@ -1,4 +1,4 @@
-# Engineering Photosynthetic Melanocytes: A CRISPR-Based Approach to Introduce Chloroplast-Like Functionality into Mammalian Pigment Cells
+### **Engineering Photosynthetic Melanocytes: A CRISPR-Based Approach to Introduce Chloroplast-Like Functionality into Mammalian Pigment Cells**
 
 # Abstract
 This project explores the theoretical feasibility of using CRISPR-Cas9 to endow mammalian melanocytes with chloroplast-like photosynthetic functions. The concept involves introducing genes responsible for photosynthetic pigment production, electron transport, and carbon fixation into melanocytes, potentially allowing light-driven ATP and NADPH generation. The research integrates synthetic biology, cellular bioengineering, and metabolic reprogramming to investigate minimal gene sets and cellular modifications required for partial photosynthetic capability in human or mammalian skin cells.
