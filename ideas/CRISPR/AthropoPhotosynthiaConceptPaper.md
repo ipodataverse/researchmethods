@@ -124,6 +124,6 @@ Transforming melanocytes into chloroplast-like cells is beyond current experimen
 
 ---
 ## **References**
-* Towards a synthetic chloroplast: results show that it is possible to engineer photosynthetic bacteria to invade the cytoplasm of mammalian cells for further engineering and applications in synthetic biology. Engineered invasive but non-pathogenic or immunogenic photosynthetic bacteria have great potential as synthetic biological devices. (https://pubmed.ncbi.nlm.nih.gov/21533097/)
+* **Towards A Synthetic Chloroplast**: Results show that it is possible to engineer photosynthetic bacteria to invade the cytoplasm of mammalian cells for further engineering and applications in synthetic biology. Engineered invasive but non-pathogenic or immunogenic photosynthetic bacteria have great potential as synthetic biological devices. (https://pubmed.ncbi.nlm.nih.gov/21533097/)
 
 
