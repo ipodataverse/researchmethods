@@ -1,2 +1,2 @@
-# researchmethods
+# Research Methods
 This repository is dedicated to research about Computer Science, Information, &amp; Technology
