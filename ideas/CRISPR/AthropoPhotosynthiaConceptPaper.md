@@ -1,9 +1,6 @@
 
-# **Concept Paper**
 
-### **Title:**
-
-**Engineering Photosynthetic Melanocytes: A Theoretical CRISPR-Based Strategy to Introduce Chloroplast-Like Functionality into Mammalian Pigment Cells**
+### **Engineering Photosynthetic Melanocytes: A Theoretical CRISPR-Based Strategy to Introduce Chloroplast-Like Functionality into Mammalian Pigment Cells**
 
 ---
 
